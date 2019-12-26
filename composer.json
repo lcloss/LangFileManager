@@ -1,5 +1,5 @@
 {
-    "name": "backpack/langfilemanager",
+    "name": "lcloss/langfilemanager",
     "description": "An interface to edit language files, for Laravel Backpack.",
     "keywords": [
         "backpack",
