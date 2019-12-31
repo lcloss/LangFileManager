@@ -59,7 +59,7 @@ class LanguageCrudController extends CrudController
         ]);
         $this->crud->addField([
             'name' => 'abbr',
-            'label' => trans('backpack::langfilemanager.code_iso639-1'),
+            'label' => trans('backpack::langfilemanager.code_rfc-4646'),
             'type' => 'text',
         ]);
         $this->crud->addField([

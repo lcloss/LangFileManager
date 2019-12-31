@@ -16,6 +16,7 @@ return [
     'active'                 => 'Active',
     'cant_edit_online'       => 'This language file cannot be edited online.',
     'code_iso639-1'          => 'Code (ISO 639-1)',
+    'code_rfc-4646'          => 'IETF language tag (RFC 4646)',
     'default'                => 'Default',
     'empty_file'             => 'No translations available.',
     'flag_image'             => 'Flag image',

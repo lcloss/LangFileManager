@@ -16,6 +16,7 @@ return [
     'active'                 => 'Ativo',
     'cant_edit_online'       => 'Este ficheiro não pode ser editado online.',
     'code_iso639-1'          => 'Código (ISO 639-1)',
+    'code_rfc-4646'          => 'Código de idioma IETF (RFC 4646)',
     'default'                => 'Predefinido',
     'empty_file'             => 'Sem traduções disponíveis.',
     'flag_image'             => 'Bandeira',

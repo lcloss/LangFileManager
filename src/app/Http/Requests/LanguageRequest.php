@@ -27,7 +27,7 @@ class LanguageRequest extends FormRequest
     {
         return [
             'name' => 'required|min:3|max:255',
-            'abbr' => 'required|min:2|max:2',
+            'abbr' => 'required|min:2|max:11',
         ];
     }
 }

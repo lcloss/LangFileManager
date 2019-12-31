@@ -16,6 +16,7 @@ return [
     'active'                 => 'Attivo',
     'cant_edit_online'       => 'Questa lingua non può essere modificata online.',
     'code_iso639-1'          => 'Codice (ISO 639-1)',
+    'code_rfc-4646'          => 'Codice (RFC 4646)',
     'default'                => 'Predefinito',
     'empty_file'             => 'Nessuna traduzione disponibile.',
     'flag_image'             => 'Immagine bandiera',

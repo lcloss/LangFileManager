@@ -16,6 +16,7 @@ return [
     'active'                 => 'Ativa',
     'cant_edit_online'       => 'Este arquivo de tradução não pode ser editado online.',
     'code_iso639-1'          => 'Código (ISO 639-1)',
+    'code_rfc-4646'          => 'Código de idioma IETF (RFC 4646)',
     'default'                => 'Padrão',
     'empty_file'             => 'Nenhuma tradução disponível.',
     'flag_image'             => 'Imagem da bandeira',

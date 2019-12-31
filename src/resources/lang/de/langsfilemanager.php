@@ -16,6 +16,7 @@ return [
     'active'                 => 'Aktiv',
     'cant_edit_online'       => 'Diese Sprache kann Online nicht editiert werden.',
     'code_iso639-1'          => 'Code (ISO 639-1)',
+    'code_rfc-4646'          => 'IETF-Sprachtag (RFC 4646)',
     'default'                => 'Standart',
     'empty_file'             => 'Keine Übersetzungen verfügbar.',
     'flag_image'             => 'Bild Markieren',

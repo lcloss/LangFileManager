@@ -16,6 +16,7 @@ return [
     'active'                 => '活动',
     'cant_edit_online'       => '此语言文件无法在线编辑。',
     'code_iso639-1'          => 'ISO语言代码 (ISO 639-1)',
+    'code_rfc-4646'          => 'IETF语言标记（RFC 4646)',
     'default'                => '默认',
     'empty_file'             => '暂无翻译。',
     'flag_image'             => '国旗图片',
