@@ -2,22 +2,28 @@
 
 All Notable changes to `Backpack LangFileManager` will be documented in this file
 
-## NEXT - YYYY-MM-DD
+---
+IMPORTANT
+---
+
+The changelog is now kept inside the repo's Releases tab, on Github. Please check https://github.com/Laravel-Backpack/LangFileManager/releases for all changes after 3.0.0.
+
+---
+
+## [3.0.0] - 2020-05-06
 
 ### Added
-- Nothing
-
-### Deprecated
-- Nothing
-
-### Fixed
-- Nothing
+- Support for Backpack 4.1;
 
 ### Removed
-- Nothing
+- Support for Backpack 4.0;
 
-### Security
-- Nothing
+
+## [2.0.2] - 2020-01-15
+
+### Added
+- Persian (farsi) translation;
+- Indonesian translation;
 
 
 ## [2.0.1] - 2019-10-19
